@@ -113,7 +113,7 @@ $ sudo make install # 安装库文件到系统中
 如果需要在Python中使用OpenCV，推荐使用pip直接安装：
 ```
 $ pip install opencv-python
-$ pip install opencv_contrib
+$ pip install opencv-contrib-python
 ```
 ### Darknet 安装
 > Darknet是使用C语言编写的深度学习框架，只依赖于linux平台。Darknet十分轻量，安装方便，YOLO目标检测来自于此。
